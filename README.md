@@ -1,3 +1,3 @@
-# -My-projects is a portfolio website there are two files one with name portfolio.html which is an index file it's a html file which you have to 
-run to see the portfolio website.
-And the other file with name portfolio.css it is a cascading style sheet includes all codes to design a website.
+# -My-projects is a portfolio website there are two files one with name portfolio.html which is an index file it's a html file which you have to run to see the website
+Seamless HTML and CSS Integration: Leverage your basic understanding of HTML and CSS, and witness the magic unfold. Our project is a seamless amalgamation of these fundamental web technologies, presented in a way that even novices can grasp. The well-structured codebase serves as a valuable learning resource, offering insights into best practices and techniques.
+Bootstrap for Visual Finesse: The inclusion of Bootstrap isn't just for aesthetics—it's a game-changer. Utilizing Bootstrap's responsive grids, components, and styling, our project ensures that your interactive resume will not only be captivating but also seamlessly adapt to different screen sizes, from desktops to mobile devices.
